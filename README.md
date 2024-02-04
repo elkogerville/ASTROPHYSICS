@@ -12,4 +12,4 @@ Python programs and functions for common astrophysical problems
 ### 3. Spectrum Analysis
 #### - HST Luhman16ab Spectrum Analysis: <br> analysis of Hubble Space Telescope (HST) spectroscopy data
 #### - Spectra Reduction: <br> raw spectrum reduction and calibration of data taken by me at the Leitner Observatory
-#### - Spectrum Analysis Chi2 and MCMC: <br> fitting a synthetic spectrum to data using Chi2 minimization and MCMC methods
+#### - Spectrum Analysis Chi^2 and MCMC: <br> fitting a synthetic spectrum to data using Chi^2 minimization and MCMC methods
