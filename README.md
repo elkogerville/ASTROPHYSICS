@@ -10,6 +10,6 @@ Python programs and functions for common astrophysical problems
 #### - A330 Lab 2: <br> lab assignment for correcting the original incorrect JWST zeropoints
 #### - JWST Color Image Program: <br> Program for creating color images using JWST data in Python
 ### 3. SPECTRUM ANALYSIS
-#### - HST Luhman16ab Spectrum Analysis: <br> analysis of Hubble Space Telescope (HST) spectroscopy data
+#### - Astroquery MAST HST Spectrum: <br> demonstration of downloading HST data using the astroquery API for the MAST database
 #### - Spectra Reduction: <br> raw spectrum reduction and calibration of data taken by me at the Leitner Observatory
 #### - Spectrum Analysis Chi^2 and MCMC: <br> fitting a synthetic spectrum to data using Chi^2 minimization and MCMC methods
