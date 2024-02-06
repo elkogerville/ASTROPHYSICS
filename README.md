@@ -14,5 +14,5 @@ Python programs and functions for common astrophysical problems
 #### - Aperture Photometry P Cygni: <br> program performing background subtracted aperture photometry on variable star P Cygni data
 ### 4. SPECTRUM ANALYSIS
 #### - Astroquery MAST HST Spectrum: <br> demonstration of downloading HST data using the astroquery API for the MAST database
-#### - Spectra Reduction: <br> raw spectrum reduction and calibration of data taken by me at the Leitner Observatory
+#### - Spectra Reduction: <br> raw spectrum reduction and wavelength calibration of data taken by me at the Leitner Observatory
 #### - Spectrum Analysis Chi^2 and MCMC: <br> fitting a synthetic spectrum to data using Chi^2 minimization and MCMC methods
