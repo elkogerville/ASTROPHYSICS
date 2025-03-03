@@ -1,14 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
+import numpy as np
+import matplotlib.pyplot as plt
+from astropy.table import Table
+from astropy.io import ascii
 
 def zeropts(data1):
-    import numpy as np
-    import matplotlib.pyplot as plt
-    from astropy.table import Table
-    from astropy.io import ascii
+
     F090W = Table.read('MATCHUP.XYMEEE.F090W', format = 'ascii')
     F150W = Table.read('MATCHUP.XYMEEE.F150W', format = 'ascii')
     A1 = (5.1125*F090W['xbar'] - 35680.375 > F090W['ybar']) & (-0.16752843846949*F090W['xbar'] + 5793.6608066184 < F090W['ybar'])
