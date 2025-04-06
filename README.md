@@ -19,3 +19,40 @@ Python programs and functions for common astrophysical problems
 #### - HST Luhman16ab Spectra Astroquery: <br> demonstration of downloading HST data using the astroquery API for the MAST database and subsequent spectra analysis
 #### - PCygni Spectra Calibration <br> raw spectrum reduction and wavelength calibration of PCygni data taken by me at the Leitner Observatory, and spectrum calibration using a synthetic and empirical spectrum  
 #### - Spectrum Analysis Chi^2 and MCMC: <br> fitting a synthetic spectrum to data using Chi^2 minimization and MCMC methods
+
+# 🌌 ASTROPHYSICS TOOLKIT  
+*Python programs and functions for common astrophysical data analysis tasks*
+
+---
+
+## 📂 Repository Contents
+
+### 🔭 1. Data Reduction  
+| Module | Description |
+|--------|-------------|
+| **[Linear Algebra in Astrophysics](link)** | Educational notebook on linear algebra applications in JWST RGB image processing |
+| **[OOP Data Reduction Pipeline](link)** | Object-oriented pipeline for reducing optical data (flats/bias/darks) |
+| **[Radio Data Reduction](link)** | Pipeline for processing radio telescope observations |
+| **[Functional Reduction Program](link)** | Classic functional approach to astronomical data reduction |
+
+### 🛰️ 2. JWST Tools  
+| Module | Description |
+|--------|-------------|
+| **[A330 Lab 2](link)** | Correcting JWST zeropoint calibration issues |
+| **[JWST Color Image Creator](link)** | Python program for generating RGB images from JWST data |
+
+### ✨ 3. Photometry  
+| Module | Description |
+|--------|-------------|
+| **[P Cygni Aperture Photometry](link)** | Background-subtracted photometry for this variable star |
+
+### 📊 4. Spectral Analysis  
+| Module | Description | Techniques |
+|--------|-------------|-----------|
+| **[Chi² Velocity Fitting](link)** | Radial velocity measurements in NGC 7006 | Synthetic templates |
+| **[Multi-Star Spectral Reduction](link)** | Processing Deneb/Sadr/P Cygni spectra | Cross-type comparison |
+| **[HST Data Downloader](link)** | MAST archive queries via `astroquery` | API demonstration |
+| **[P Cygni Calibration](link)** | Leitner Observatory data reduction | Empirical+synthetic calibration |
+| **[Spectrum Fitting Suite](link)** | Dual-method analysis | Chi² + MCMC |
+
+---
