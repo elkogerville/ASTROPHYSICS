@@ -3,7 +3,7 @@
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### 🔭 1. Data Reduction  
 | Module | Description |
