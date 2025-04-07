@@ -49,7 +49,7 @@ Python programs and functions for common astrophysical problems
 ### 📊 4. Spectral Analysis  
 | Module | Description |
 |--------|-------------|
-| **[Chi² Velocity Fitting](link)** | Radial velocity measurements in NGC 7006 using Chi² fitting of synthetic spectra |
+| **[Chi² Velocity Fitting](SPECTRUM_ANALYSIS/Chi2_Velocity_Fitting.ipynb)** | Radial velocity measurements in NGC 7006 using Chi² fitting of synthetic spectra |
 | **[Multi-Star Spectral Reduction](SPECTRUM_ANALYSIS/Deneb_Sadr_PCygni_Spectra_Reduction.ipynb)** | Spectral reduction of an A, F, and K spectral type stars |
 | **[HST Luhman16ab Spectra Astroquery](SPECTRUM_ANALYSIS/HST_Luhman16ab_Spectra_astroquery.ipynb)** | Downloading HST data using the astroquery API for the MAST database and subsequent spectra analysis |
 | **[P Cygni Spectra Calibration](SPECTRUM_ANALYSIS/Pcygni_Spectra_Calibration.ipynb)** | Raw spectrum reduction and wavelength calibration of PCygni data taken by me at the Leitner Observatory, and spectrum calibration using a synthetic and empirical spectrum |
