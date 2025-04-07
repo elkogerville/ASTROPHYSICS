@@ -44,7 +44,7 @@ Python programs and functions for common astrophysical problems
 ### ✨ 3. Photometry  
 | Module | Description |
 |--------|-------------|
-| **[P Cygni Aperture Photometry](link)** | Background-subtracted photometry for this variable star |
+| **[P Cygni Aperture Photometry](PHOTOMETRY/GAIA_Cluster_Dating.ipynb)** | Background-subtracted photometry for this variable star |
 
 ### 📊 4. Spectral Analysis  
 | Module | Description |
