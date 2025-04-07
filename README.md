@@ -27,7 +27,7 @@
 | **[P Cygni Aperture Photometry](PHOTOMETRY/Aperture_Photometry_P_Cygni.ipynb)** | Background-subtracted aperature photometry using photutils for variable star PCygni |
 
 
-### 📊 4. Spectral Analysis  
+### ☀️ 4. Spectral Analysis  
 | Module | Description |
 |--------|-------------|
 | **[Chi² Velocity Fitting](SPECTRUM_ANALYSIS/Chi2_Velocity_Fitting.ipynb)** | Radial velocity measurements in NGC 7006 using Chi² fitting of synthetic spectra |
