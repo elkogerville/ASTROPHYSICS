@@ -52,7 +52,7 @@ Python programs and functions for common astrophysical problems
 | **[Chi² Velocity Fitting](link)** | Radial velocity measurements in NGC 7006 | Synthetic templates |
 | **[Multi-Star Spectral Reduction](link)** | Processing Deneb/Sadr/P Cygni spectra | Cross-type comparison |
 | **[HST Data Downloader](link)** | MAST archive queries via `astroquery` | API demonstration |
-| **[P Cygni Calibration](link)** | Leitner Observatory data reduction | Empirical+synthetic calibration |
+| **[P Cygni Spectra Calibration](ASTROPHYSICS/SPECTRUM%ANALYSIS/Pcygni_Spectra_Calibration.ipynb)** | Leitner Observatory data reduction | Empirical+synthetic calibration |
 | **[Spectrum Fitting Suite](link)** | Dual-method analysis | Chi² + MCMC |
 
 ---
