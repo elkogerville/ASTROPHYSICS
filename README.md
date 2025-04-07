@@ -17,7 +17,7 @@
 | Module | Description |
 |--------|-------------|
 | **[A330 Lab 2](JWST/A330_Lab2_Elko.ipynb)** | Python lab assignment correcting JWST zeropoint calibration issues |
-| **[JWST Color Image Program](JWST/JWST_RGB_Image_Creation.ipynb)** | Python program for generating RGB images from multi-filter JWST data |
+| **[JWST Color Image Program](JWST/JWST_RGB_Image_Creation.ipynb)** | Python program for generating RGB images from multi-filter JWST data of cartwheel galaxy |
 
 ### ✨ 3. Photometry  
 | Module | Description |
