@@ -47,12 +47,11 @@ Python programs and functions for common astrophysical problems
 | **[P Cygni Aperture Photometry](link)** | Background-subtracted photometry for this variable star |
 
 ### 📊 4. Spectral Analysis  
-| Module | Description | Techniques |
-|--------|-------------|-----------|
-| **[Chi² Velocity Fitting](link)** | Radial velocity measurements in NGC 7006 | Synthetic templates |
-| **[Multi-Star Spectral Reduction](link)** | Processing Deneb/Sadr/P Cygni spectra | Cross-type comparison |
-| **[HST Data Downloader](link)** | MAST archive queries via `astroquery` | API demonstration |
-| **[P Cygni Spectra Calibration](ASTROPHYSICS/SPECTRUM%ANALYSIS/Pcygni_Spectra_Calibration.ipynb)** | Leitner Observatory data reduction | Empirical+synthetic calibration |
-| **[Spectrum Fitting Suite](link)** | Dual-method analysis | Chi² + MCMC |
+| Module | Description |
+|--------|-------------|
+| **[Chi² Velocity Fitting](link)** | Radial velocity measurements in NGC 7006 using Chi² fitting of synthetic spectra |
+| **[Multi-Star Spectral Reduction](SPECTRUM%ANALYSIS/Deneb_Sadr_PCygni_Spectra_Reduction.ipynb)** | Spectral reduction of an A, F, and K spectral type stars |
+| **[HST Luhman16ab Spectra Astroquery](ASTROPHYSICS/SPECTRUM%ANALYSIS/HST_Luhman16ab_Spectra_astroquery.ipynb)** | Downloading HST data using the astroquery API for the MAST database and subsequent spectra analysis |
+| **[P Cygni Spectra Calibration](ASTROPHYSICS/SPECTRUM%ANALYSIS/Pcygni_Spectra_Calibration.ipynb)** | Raw spectrum reduction and wavelength calibration of PCygni data taken by me at the Leitner Observatory, and spectrum calibration using a synthetic and empirical spectrum |
 
 ---
