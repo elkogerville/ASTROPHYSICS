@@ -22,7 +22,7 @@
 ### ✨ 3. Photometry  
 | Module | Description |
 |--------|-------------|
-| **[Gaia Cluster Dating](PHOTOMETRY/GAIA_Cluster_Dating.ipynb)** | Pleiades (M45) and NGC 6121 cluster age determination using GAIA parallax data. Demonstration of period determination of variable white dwarf using Lomb-Scargle method |
+| **[Gaia Star Cluster Dating](PHOTOMETRY/GAIA_Cluster_Dating.ipynb)** | Pleiades (M45) and NGC 6121 cluster age determination using GAIA parallax data. Demonstration of period determination of variable white dwarf using Lomb-Scargle method |
 | **[P Cygni Aperture Photometry](PHOTOMETRY/Aperture_Photometry_P_Cygni.ipynb)** | Background-subtracted aperature photometry using photutils for variable star PCygni |
 
 
