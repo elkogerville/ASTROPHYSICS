@@ -10,9 +10,8 @@
 |--------|-------------|
 | **[Linear Algebra in Astrophysics](DATA_REDUCTION/Linear_Algebra_in_Astrophysics.ipynb)** | Educational notebook on linear algebra applications in astrophysical image reduction and JWST RGB image processing |
 | **[OOP Data Reduction Pipeline](DATA_REDUCTION/OOP_Data_Reduction_Pipeline.ipynb)** | Object-oriented pipeline for reducing optical data (flats/bias/darks) |
-| **[Vectorized Reduction Pipeline](DATA_REDUCTION/Photometric_Reduction_Pipeline.ipynb)** | Vectorized python reduction program for wide field galaxy images using bias, dark, and flat field calibration |
+| **[Photometric Reduction Pipeline](DATA_REDUCTION/Photometric_Reduction_Pipeline.ipynb)** | Vectorized python reduction program for wide field galaxy images using bias, dark, and flat field calibration |
 | **[Radio Data Reduction](DATA_REDUCTION/Radio_Data_Reduction.ipynb)** | Pipeline for processing radio telescope observations of Galactic longitude 70º of the Milky Way taken by me at the Leitner Observatory|
-| **[Functional Reduction Program](DATA_REDUCTION/Reduction_Program.ipynb)** | Classic functional approach to astronomical data reduction |
 
 ### 🛰️ 2. JWST Tools  
 | Module | Description |
